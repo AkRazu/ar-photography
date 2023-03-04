@@ -1,0 +1,10 @@
+.client-bg{
+    background-image: url('../../../assets/Review/review.jpg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
