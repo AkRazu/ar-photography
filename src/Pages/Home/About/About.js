@@ -8,7 +8,8 @@ const About = () => {
           <img alt="about me" src={about} className=" rounded-sm shadow-2xl" />
           <div className="text-start">
             <p className="text-sm tracking-widest text-primary">HELLO THERE!</p>
-            <h1 className="text-5xl font-semibold">I'm Caroline.</h1>
+            <h1 className="text-4xl head font-normal">I'm Caroline.</h1>
+            <hr className="border-primary w-1/5 my-3 " />
             <p className="py-2 normal-case whitespace-normal">
               A wedding, pre-wedding and fashion photographer based in central
               Europe.
