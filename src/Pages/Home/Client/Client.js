@@ -75,6 +75,8 @@ const Client = () => {
               </span>
             </div>
           </SwiperSlide>
+          <br />
+          <br />
         </Swiper>
       </div>
     </div>
