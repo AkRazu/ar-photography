@@ -20,13 +20,13 @@ const Client = () => {
         >
           <SwiperSlide>
             <div className="lg:w-2/4 rounded-sm bg-base-100 px-5 mx-auto text-start py-10">
-              <h3 className="text-xl head">
+              <h3 className="text-xl head mb-5">
                 " Caroline is an amazing photographer!!! She made the pictures
                 during our wedding and they look amazing. It's like she has a
                 third sense to capture all the interesting moments that are
                 taking place. "
               </h3>
-              <hr className="border-primary w-1/6 my-5" />
+              <hr className="border-primary w-1/6" />
               <span className="flex justify-between items-center">
                 <h6 className="tracking-[.2em]">— Olivia & Enrico </h6>
                 <img
@@ -39,13 +39,13 @@ const Client = () => {
           </SwiperSlide>
           <SwiperSlide>
             <div className="lg:w-2/4 rounded-sm bg-base-100 px-5 mx-auto text-start py-10">
-              <h3 className="text-xl head">
+              <h3 className="text-xl head mb-5">
                 " Caroline is an amazing photographer!!! She made the pictures
                 during our wedding and they look amazing. It's like she has a
                 third sense to capture all the interesting moments that are
                 taking place. "
               </h3>
-              <hr className="border-primary w-1/6 my-5" />
+              <hr className="border-primary w-1/6" />
               <span className="flex justify-between items-center">
                 <h6 className="tracking-[.2em]">— Marine & Kevin</h6>
                 <img
@@ -58,13 +58,13 @@ const Client = () => {
           </SwiperSlide>
           <SwiperSlide>
             <div className="lg:w-2/4 rounded-sm bg-base-100 px-5 mx-auto text-start py-10">
-              <h3 className="text-xl head">
+              <h3 className="text-xl head mb-5">
                 " Caroline is an amazing photographer!!! She made the pictures
                 during our wedding and they look amazing. It's like she has a
                 third sense to capture all the interesting moments that are
                 taking place. "
               </h3>
-              <hr className="border-primary w-1/6 my-5" />
+              <hr className="border-primary w-1/6" />
               <span className="flex justify-between items-center">
                 <h6 className="tracking-[.2em]">— Tammy & Matthew</h6>
                 <img
@@ -75,8 +75,6 @@ const Client = () => {
               </span>
             </div>
           </SwiperSlide>
-          <br />
-          <br />
         </Swiper>
       </div>
     </div>
