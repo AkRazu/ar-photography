@@ -8,7 +8,7 @@ import "swiper/css/scrollbar";
 import "./Client.css";
 const Client = () => {
   return (
-    <div className="lg:pb-10">
+    <div className="mb-10">
       <div className="client-bg">
         <Swiper
           spaceBetween={30}
