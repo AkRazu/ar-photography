@@ -3,7 +3,7 @@ import about from "../../../assets/About/about.jpg";
 const About = () => {
   return (
     <div>
-      <div className="hero bg-base-100 lg:py-8">
+      <div id="about" className="hero bg-base-100 lg:py-8">
         <div className="hero-content flex-col lg:flex-row-reverse ">
           <img alt="about me" src={about} className=" rounded-sm shadow-2xl" />
           <div className="text-start">

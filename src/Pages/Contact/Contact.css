@@ -1,0 +1,9 @@
+.contact-1{
+    background-image: url('../../assets/Contact/Contact1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
